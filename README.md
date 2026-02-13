@@ -80,8 +80,13 @@ We will compare human performance against two primary computational baselines:
 
 ---
 
-## Meet the teams!!
-(_names in alphabetical order_)
+## Meet the team!!
+
+Course Instructor: [Dr. Arjun Ramakrishnan](https://sites.google.com/view/decisionlabiitk/people/arjun?authuser=0)
+
+Mentor for this project: [Chetan Kandpal](https://github.com/Chetank99)
+
+Students (_names in alphabetical order_)
 
 ### Team: **Brain Dead**: 
 - **Akash Rathi** (@clammyface)
