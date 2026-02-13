@@ -4,6 +4,29 @@
 ## Scope:
 This repo is part of the [**BSE662 - Decision Making and The Brain**](https://sites.google.com/view/decisionlabiitk/teaching?authuser=0#h.fyk15nbxqb4j) course project. 
 
+## Meet the team!!
+
+Course Instructor: [Dr. Arjun Ramakrishnan](https://sites.google.com/view/decisionlabiitk/people/arjun?authuser=0)
+
+Mentor for this project: [Chetan Kandpal](https://github.com/Chetank99)
+
+Students (_names in alphabetical order_)
+
+### Team: **Brain Dead**: 
+Their fork [link](https://github.com/KushalAgrawal123/Human_JellyBean/tree/Brain-Dead-BSE662)
+- **Akash Rathi** (@clammyface)
+- **Kushal Agrawal** (@KushalAgrawal123)
+- **Vivek Kumar Gupta** (@Vivek280404)
+- **Yash Kumar** (@kyash23)
+
+### Team: **The Decision Matrix**:
+Their fork [link](https://github.com/krrishkh/Human_JellyBean/tree/The-Decision-Matrix) 
+- **Ankit** (@akankitt)
+- **Asif** (@AsiF-7488)
+- **Krrish Khandelwal** (@krrishkh)
+
+---
+
 ## Project Overview
 
 **Goal:** Design a playable version of the Jelly Bean World task, collect human decision-making data, and develop models to explain human performance in a changing environment.
@@ -79,26 +102,3 @@ We will compare human performance against two primary computational baselines:
 *   **Jelly Bean World:** [Paper](https://arxiv.org/pdf/2002.06306) | [Original Code](https://github.com/eaplatanios/jelly-bean-world)
 
 ---
-
-## Meet the team!!
-
-Course Instructor: [Dr. Arjun Ramakrishnan](https://sites.google.com/view/decisionlabiitk/people/arjun?authuser=0)
-
-Mentor for this project: [Chetan Kandpal](https://github.com/Chetank99)
-
-Students (_names in alphabetical order_)
-
-### Team: **Brain Dead**: 
-Their fork [link](https://github.com/KushalAgrawal123/Human_JellyBean/tree/Brain-Dead-BSE662)
-- **Akash Rathi** (@clammyface)
-- **Kushal Agrawal** (@KushalAgrawal123)
-- **Vivek Kumar Gupta** (@Vivek280404)
-- **Yash Kumar** (@kyash23)
-
-### Team: **The Decision Matrix**:
-Their fork [link](https://github.com/krrishkh/Human_JellyBean/tree/The-Decision-Matrix) 
-- **Ankit** (@akankitt)
-- **Asif** (@AsiF-7488)
-- **Krrish Khandelwal** (@krrishkh)
----
-
