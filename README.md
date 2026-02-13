@@ -17,7 +17,7 @@ Their fork [link](https://github.com/KushalAgrawal123/Human_JellyBean/tree/Brain
 - **Akash Guru** ([@Akash-22-stack](https://github.com/Akash-22-stack))
 - **Akash Rathi** ([@clammyface](https://github.com/clammyface))
 - **Gulshan Kumar** ([@kumargulshann](https://github.com/kumargulshann))
-- **Ishani** ([@Ishaniiitk23](https://github.com/Ishaniiiitk23))
+- **Ishani** ([@Ishaniiitk23](https://github.com/Ishaniiitk23))
 - **Kushal Agrawal** ([@KushalAgrawal123](https://github.com/KushalAgrawal123))
 - **Vivek Kumar Gupta** ([@Vivek280404](https://github.com/Vivek280404))
 - **Yash Kumar** ([@kyash23](https://github.com/kyash23))
