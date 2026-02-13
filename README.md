@@ -14,16 +14,16 @@ Students (_names in alphabetical order_)
 
 ### Team: **Brain Dead**: 
 Their fork [link](https://github.com/KushalAgrawal123/Human_JellyBean/tree/Brain-Dead-BSE662)
-- **Akash Rathi** (@clammyface)
-- **Kushal Agrawal** (@KushalAgrawal123)
-- **Vivek Kumar Gupta** (@Vivek280404)
-- **Yash Kumar** (@kyash23)
+- **Akash Rathi** ([@clammyface](https://github.com/clammyface))
+- **Kushal Agrawal** ([@KushalAgrawal123](https://github.com/KushalAgrawal123))
+- **Vivek Kumar Gupta** ([@Vivek280404](https://github.com/Vivek280404))
+- **Yash Kumar** ([@kyash23](https://github.com/kyash23))
 
 ### Team: **The Decision Matrix**:
 Their fork [link](https://github.com/krrishkh/Human_JellyBean/tree/The-Decision-Matrix) 
-- **Ankit** (@akankitt)
-- **Asif** (@AsiF-7488)
-- **Krrish Khandelwal** (@krrishkh)
+- **Ankit** ([@akankitt](https://github.com/akankitt))
+- **Asif** ([@AsiF-7488](https://github.com/AsiF-7488))
+- **Krrish Khandelwal** ([@krrishkh](https://github.com/krrishkh))
 
 ---
 
